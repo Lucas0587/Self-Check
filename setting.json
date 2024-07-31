@@ -1,0 +1,42 @@
+{
+    "main": {
+        "window_background_color": "#f7fed5",
+        "label_font_size": 20,
+        "title_font_size": 30,
+        "title_background_color": "#94d2ef",
+        "button_font_size": 30,
+        "button_padding": 10,
+        "button_border_radius": 10,
+        "button_background_color": "#e7e7e7",
+        "button_pressed_color": "#145214",
+        "filepath_font_size": 18
+    },
+    "slide": {
+        "window_background_color": "#e7e7e7",
+        "label_font_size": 20,
+        "label_background_color": "#ffffff",
+        "answer_font_size": 20,
+        "answer_background_color": "#000000",
+        "answer_background_press_color": "#ffffff",
+        "button_font_size": 18,
+        "button_padding": 10,
+        "button_border_radius": 10,
+        "button_background_color": "#ffffff",
+        "button_pressed_color": "#00ffff"
+    },
+    "single": {
+        "window_background_color": "#e7e7e7",
+        "label_font_size": 20,
+        "label_background_color": "#ffffff",
+        "answer_font_size": 20,
+        "answer_background_color": "#ffffff",
+        "button_font_size": 18,
+        "button_padding": 10,
+        "button_border_radius": 10,
+        "button_background_color": "#ffffff",
+        "button_pressed_color": "#00ffff",
+        "button_right_color": "#00ff00",
+        "button_wrong_color": "#ff0000",
+        "non_repeat_check": true
+    }
+}
